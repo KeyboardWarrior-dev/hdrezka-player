@@ -15,7 +15,7 @@ GM_addStyle(`
     }
     
     div#cdnplayer-container, 
-    .div#cdnplayer {
+    div#cdnplayer {
         width: 100% !important;
         height: auto !important;
         aspect-ratio: 16 / 9 !important;
