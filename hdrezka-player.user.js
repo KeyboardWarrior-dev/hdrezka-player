@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hdrezka player
 // @namespace    http://top-kek.ml/
-// @version      0.1.3
+// @version      0.1.4
 // @description  try to take over the world!
 // @author       Chilli
 // @match        https://rezka.ag/*
@@ -34,7 +34,7 @@ GM_addStyle(`
         aspect-ratio: 16 / 9 !important;
     }
 
-    pjsdiv:has(> pjsdiv > button#pjs_cast_button_cdnplayer) {
+    pjsdiv:has(> pjsdiv > pjsdiv > button#pjs_cast_button_cdnplayer) {
         top: 20px !important;
     }
 `);
