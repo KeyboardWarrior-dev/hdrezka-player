@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hdrezka player
 // @namespace    http://top-kek.ml/
-// @version      0.1.4
+// @version      0.1.5
 // @description  try to take over the world!
 // @author       Chilli
 // @match        https://rezka.ag/*
@@ -38,8 +38,3 @@ GM_addStyle(`
         top: 20px !important;
     }
 `);
-
-(function () {
-    'use strict';
-
-})();
