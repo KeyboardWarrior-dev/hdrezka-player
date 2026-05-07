@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         hdrezka player
 // @namespace    http://top-kek.ml/
-// @version      0.1.6
+// @version      0.1.7
 // @description  try to take over the world!
 // @author       Chilli
 // @match        https://rezka.ag/*
 // @match        https://hdrezka.tv/*
 // @match        https://standby-rezka.tv/*
 // @match        https://hdrezka-home.tv/*
+// @match        https://rezka.fi/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_addStyle
 // ==/UserScript==
